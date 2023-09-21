@@ -5,4 +5,5 @@ int main()
 	return 0;
 	printf("hello\n");
 	printf("hello\n");
+	printf("hello\n");
 }
