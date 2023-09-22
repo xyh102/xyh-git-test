@@ -7,6 +7,7 @@ int main()
 	{
 		printf("hello %d\n",i);
 	}
+	i=1000;
 	return 0;
 	
 }
