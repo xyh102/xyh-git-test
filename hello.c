@@ -8,6 +8,7 @@ int main()
 		printf("hello %d\n",i);
 	}
 	i=1000;
+	int j=1212;
 	return 0;
 	
 }
