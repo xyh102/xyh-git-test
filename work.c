@@ -2,4 +2,5 @@
 int main()
 {
     printf("work\n");
+    printf("works\n");
 }
